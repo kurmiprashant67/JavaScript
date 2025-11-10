@@ -114,7 +114,7 @@ Demo()
                  }
        }
        let a=parseInt(prompt("enter any numbar"))
-         console.log(Demo(a));
+  initi      console.log(Demo(a));
 --------------------------------------------------------------------------------
 Q4-> wap to create an array inside the function the fuction 25-1  and the print sum all element which present in the array 
     using function type 4;
