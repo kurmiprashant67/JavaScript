@@ -47,17 +47,17 @@ function change(){
 
 function Dome(){
    let a= document.getElementById('cool')
-
-   a.style.color="red"
-   
+a.textContent="Text changed"
+  a.style.color="red"
    
 }
 
 function Hay(){
    let a= document.getElementById('cool')
    
- textContent="changed text"
-   a.style.color="black"
+ a.textContent="Hover"
+ a.style.color="black"
+
    
 }
 
