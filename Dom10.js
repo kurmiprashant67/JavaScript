@@ -23,8 +23,6 @@ Syntex:-   function ___(function__());
 
 
 
-
-
 */
 let bnt= document.querySelector('.bnt')
 bnt.addEventListener('click',()=>{alert("working")})
