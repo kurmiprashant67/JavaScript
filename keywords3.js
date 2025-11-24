@@ -34,7 +34,7 @@ console.log(num)
   console.log(a%b)
   
   
-
+          
   let a= parseInt(prompt("enter numbar 1"))
   let b= parseInt(prompt("enter numbar 2"))
 

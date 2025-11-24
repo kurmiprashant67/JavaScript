@@ -77,7 +77,7 @@ else{
     code
 
      }
-   
+     
 
 let a = parseInt(prompt("enter any numbar"));
 
